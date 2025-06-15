@@ -62,7 +62,4 @@ This project is licensed under the **GPL-3.0 License**.
 This repository accompanies the article:  
 **“A methodology for multitemporal analysis of hydraulic dynamic of water bodies using satellite radar imagery: A case study of the Bajo Cauca region in Antioquia-Colombia.”**
 
----
-
-## ⭐️ If you find this useful, please **star** this repository!
 
